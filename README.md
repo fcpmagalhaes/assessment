@@ -35,7 +35,7 @@ In `/client` folder run: `yarn install`
 1. Run `npm run api` to start the [API](#api)
 
 ## Client
-Was used the most recent version of [React](https://reactjs.org/) and [React Router](https://github.com/remix-run/react-router) with the typescript template. The the website is located in `/client`.
+Was used the most recent version of [React](https://reactjs.org/) and [React Router](https://github.com/remix-run/react-router) with the typescript template. The the website is located in `/client`. Stylization was not considered to deliver this test and was reproduced exactly as the demo website provided. This feature can be a goal to an next time.
 
 
 You should then have the demo website running in `http://localhost:4000`
